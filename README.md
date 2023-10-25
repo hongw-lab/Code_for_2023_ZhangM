@@ -1,4 +1,4 @@
-# Code used in Zhang et al., 2023
+# Code used in M. Zhang et al., 2023
 
 - ROC.m
   - Matlab code used for ROC (receiver operating characteristic) analysis in M. Zhang et al., 2023.
